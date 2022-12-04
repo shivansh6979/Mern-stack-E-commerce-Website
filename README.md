@@ -1,0 +1,2 @@
+# Mern-stack-E-commerce-Website
+it is built using HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACTJS,MONGODB,NODEJS,EXPRESSJS AND REDUX
